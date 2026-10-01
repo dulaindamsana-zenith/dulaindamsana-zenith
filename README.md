@@ -4,12 +4,12 @@
 ---
 
 <p align="center">
-  <img src="./YOUR_IMAGE_FILENAME_HERE.jpg" alt="Banner" width="100%" />
+  <img src="./assets/banner.jpg" width="100%" alt="Profile Banner" />
 </p>
 
 ---
 
-## 💼 PROJECT ZENITH — MISSION CONTROL 🚀
+## 💼 PROJECT ZENITH - MISSION CONTROL 🚀
 
 ```text
  [⚡] ARCHITECTURE  : Cyber Physics & Advanced Systems Engineering
@@ -28,16 +28,26 @@
 | **🛡️ SECURITY TOOLING** | ![](https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kali-linux) ![](https://img.shields.io/badge/NMAP-000000?style=for-the-badge) ![](https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark) ![](https://img.shields.io/badge/BURP_SUITE-000000?style=for-the-badge&logo=burp-suite) ![](https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge&logo=metasploit) |
 | **⚙️ DEV & OPS** | ![](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux) ![](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git) ![](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker) ![](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github) |
 
-<h2 align="center">📊 WAR ROOM — TELEMETRY 📈</h2>
+<h2 align="center">📊 WAR ROOM - TELEMETRY 📈</h2>
 
-<!-- Real-time GitHub Activity & Contribution Graph -->
+<!-- Real-time Streak Stats Card -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&color=A371F7&line=A371F7&point=1F6FEB&hide_border=true" alt="Dula Real-time Contribution Graph" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulaindamsana-zenith&theme=tokyonight&hide_border=true" alt="Dulain GitHub Streak" width="100%" />
 </p>
 
-<!-- Real-time Language Metrics & Account Stats -->
+<!-- Perfectly Aligned 3-Column Equal Height Telemetry Row -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulaindamsana-zenith&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7928CA&text_color=FFFFFF" alt="Top Languages by Repo" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulaindamsana-zenith&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7928CA&text_color=FFFFFF" alt="Top Languages by Commit" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dulaindamsana-zenith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7928CA&text_color=FFFFFF&icon_color=A371F7" alt="GitHub Real-time Stats" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulaindamsana-zenith&layout=donut&theme=tokyonight&hide_border=true&title_color=7928CA&custom_title=Top+Languages+by+Repo" width="32%" height="205" alt="Top Languages by Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulaindamsana-zenith&layout=donut&theme=tokyonight&hide_border=true&title_color=7928CA&custom_title=Top+Languages+by+Commit" width="32%" height="205" alt="Top Languages by Commit" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dulaindamsana-zenith&show_icons=true&theme=tokyonight&hide_border=true&title_color=7928CA&icon_color=A371F7&custom_title=Stats" width="42%" height="240" alt="Stats" />
+</p>
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="mailto:dulaindamsana@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8109-f64f89be90b8.gif" width="100%" />
 </p>
