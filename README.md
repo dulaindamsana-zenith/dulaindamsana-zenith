@@ -17,7 +17,7 @@
  [•] SYSTEM OS     : EndeavourOS (Arch Linux) (Terminal-First Strategy)
  [•] DAILY ROUTINE : 120 Mins Isolated Sandbox Execution
 ```
-
+---
 
 ## WEAPONS LOADOUT
 
@@ -41,6 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulaindamsana-zenith&layout=donut&theme=tokyonight&hide_border=true&title_color=7928CA&custom_title=Top+Languages+by+Commit" width="32%" height="205" alt="Top Languages by Commit" />
   <img src="https://github-readme-stats.vercel.app/api?username=dulaindamsana-zenith&show_icons=true&theme=tokyonight&hide_border=true&title_color=7928CA&icon_color=A371F7&custom_title=Stats" width="42%" height="240" alt="Stats" />
 </p>
+---
 
 ## Connect with Me
 
