@@ -14,7 +14,7 @@
 ```text
  [•] ARCHITECTURE  : Cyber Physics & Advanced Systems Engineering
  [•] FRAMEWORK     : Project Zenith (120-Week Modular Execution)
- [•] SYSTEM OS     : Linux Mint XFCE (Terminal-First Strategy)
+ [•] SYSTEM OS     : EndeavourOS (Arch Linux) (Terminal-First Strategy)
  [•] DAILY ROUTINE : 120 Mins Isolated Sandbox Execution
 ```
 
