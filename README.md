@@ -1,5 +1,5 @@
 <h1 align="center">Hey I'm Dulain Damsana (DCD)</h1>
-<h3 align="center">Future Quantum Cyber Physicist | 120-Week Project Zenith Framework</h3>
+<h3 align="center">Programmer | 120-Week Project Zenith Framework</h3>
 
 ---
 
@@ -9,7 +9,7 @@
 
 ---
 
-## PROJECT ZENITH - MISSION CONTROL
+## PROJECT ZENITH
 
 ```text
  [•] ARCHITECTURE  : Cyber Physics & Advanced Systems Engineering
@@ -19,16 +19,16 @@
 ```
 ---
 
-## WEAPONS LOADOUT
+## LANGUAGES
 
-| CATEGORY | LOADOUT |
+| CATEGORY | LANGUAGE |
 | :--- | :--- |
 | **LANGUAGES** | ![](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python) ![](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnu-bash) ![](https://img.shields.io/badge/SHELL_SCRIPT-000000?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | **WEB** | ![](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5) ![](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3) ![](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript) |
 | **SECURITY TOOLING** | ![](https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kali-linux) ![](https://img.shields.io/badge/NMAP-000000?style=for-the-badge) ![](https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark) ![](https://img.shields.io/badge/BURP_SUITE-000000?style=for-the-badge&logo=burp-suite) ![](https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge&logo=metasploit) |
 | **DEV & OPS** | ![](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux) ![](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git) ![](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker) ![](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github) |
 
-<h2 align="center">WAR ROOM - TELEMETRY</h2>
+<h2 align="center">TELEMETRY</h2>
 
 <!-- Real-time Streak Stats Card -->
 <p align="center">
